@@ -1,0 +1,4 @@
+Selamat Pagi, Siang, atau Malam.
+Project UAS saya kali ini tentang Login & Register, dan menggunakan preference untuk penyimpanan sementara.
+
+Terima Kasih..
